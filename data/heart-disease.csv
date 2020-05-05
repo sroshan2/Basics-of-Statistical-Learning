@@ -1,0 +1,741 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,num,location
+38,Female,asymptomatic,110,0,0,normal,156,No,0,v1,ch
+38,Male,non-anginal pain,115,0,0,normal,128,Yes,0,v1,ch
+42,Male,asymptomatic,145,0,0,normal,99,Yes,0,v2,ch
+43,Male,asymptomatic,115,0,0,normal,145,Yes,2,v4,ch
+43,Male,asymptomatic,140,0,0,ST-T wave abnormality,140,Yes,0.5,v2,ch
+46,Male,asymptomatic,115,0,0,normal,113,Yes,1.5,v1,ch
+47,Male,non-anginal pain,155,0,0,normal,118,Yes,1,v3,ch
+47,Male,asymptomatic,160,0,0,normal,124,Yes,0,v1,ch
+50,Male,asymptomatic,115,0,0,normal,120,Yes,0.5,v3,ch
+50,Male,asymptomatic,120,0,0,ST-T wave abnormality,156,Yes,0,v3,ch
+51,Male,asymptomatic,120,0,1,normal,104,No,0,v3,ch
+51,Male,asymptomatic,140,0,0,normal,60,No,0,v2,ch
+53,Male,atypical angina,120,0,0,normal,95,No,0,v3,ch
+53,Male,non-anginal pain,105,0,0,normal,115,No,0,v1,ch
+53,Male,asymptomatic,130,0,0,probable/definite hypertrophy,135,Yes,1,v2,ch
+54,Male,asymptomatic,120,0,0,normal,155,No,0,v2,ch
+55,Male,asymptomatic,120,0,0,ST-T wave abnormality,92,No,0.3,v4,ch
+55,Male,asymptomatic,140,0,0,normal,83,No,0,v2,ch
+56,Male,non-anginal pain,120,0,0,normal,97,No,0,v0,ch
+56,Male,non-anginal pain,155,0,0,ST-T wave abnormality,99,No,0,v2,ch
+56,Male,asymptomatic,120,0,0,ST-T wave abnormality,100,Yes,-1,v2,ch
+56,Male,asymptomatic,120,0,0,ST-T wave abnormality,148,No,0,v2,ch
+56,Male,asymptomatic,125,0,1,normal,103,Yes,1,v3,ch
+57,Male,asymptomatic,140,0,0,normal,120,Yes,2,v2,ch
+58,Male,asymptomatic,130,0,0,ST-T wave abnormality,100,Yes,1,v4,ch
+59,Male,asymptomatic,120,0,0,normal,115,No,0,v2,ch
+59,Male,asymptomatic,135,0,0,normal,115,Yes,1,v1,ch
+60,Male,asymptomatic,135,0,0,normal,63,Yes,0.5,v3,ch
+60,Male,asymptomatic,160,0,0,ST-T wave abnormality,99,Yes,0.5,v3,ch
+61,Male,asymptomatic,125,0,0,normal,105,Yes,0,v3,ch
+61,Male,asymptomatic,130,0,0,probable/definite hypertrophy,115,No,0,v3,ch
+61,Male,asymptomatic,150,0,0,normal,105,Yes,0,v1,ch
+61,Male,asymptomatic,150,0,0,normal,117,Yes,2,v2,ch
+61,Male,asymptomatic,160,0,1,ST-T wave abnormality,145,No,1,v2,ch
+62,Male,non-anginal pain,160,0,0,normal,72,Yes,0,v3,ch
+63,Male,asymptomatic,150,0,0,normal,86,Yes,2,v3,ch
+63,Male,asymptomatic,185,0,0,normal,98,Yes,0,v1,ch
+64,Female,asymptomatic,200,0,0,normal,140,Yes,1,v3,ch
+65,Male,asymptomatic,115,0,0,normal,93,Yes,0,v1,ch
+66,Male,asymptomatic,150,0,0,normal,108,Yes,2,v3,ch
+67,Male,typical angina,145,0,0,probable/definite hypertrophy,125,No,0,v2,ch
+68,Male,asymptomatic,135,0,0,ST-T wave abnormality,120,Yes,0,v3,ch
+69,Male,asymptomatic,135,0,0,normal,130,No,0,v1,ch
+70,Male,asymptomatic,115,0,0,ST-T wave abnormality,92,Yes,0,v1,ch
+70,Male,asymptomatic,140,0,1,normal,157,Yes,2,v3,ch
+73,Female,non-anginal pain,160,0,0,ST-T wave abnormality,121,No,0,v1,ch
+63,Male,typical angina,145,233,1,probable/definite hypertrophy,150,No,2.3,v0,cl
+67,Male,asymptomatic,160,286,0,probable/definite hypertrophy,108,Yes,1.5,v2,cl
+67,Male,asymptomatic,120,229,0,probable/definite hypertrophy,129,Yes,2.6,v1,cl
+37,Male,non-anginal pain,130,250,0,normal,187,No,3.5,v0,cl
+41,Female,atypical angina,130,204,0,probable/definite hypertrophy,172,No,1.4,v0,cl
+56,Male,atypical angina,120,236,0,normal,178,No,0.8,v0,cl
+62,Female,asymptomatic,140,268,0,probable/definite hypertrophy,160,No,3.6,v3,cl
+57,Female,asymptomatic,120,354,0,normal,163,Yes,0.6,v0,cl
+63,Male,asymptomatic,130,254,0,probable/definite hypertrophy,147,No,1.4,v2,cl
+53,Male,asymptomatic,140,203,1,probable/definite hypertrophy,155,Yes,3.1,v1,cl
+57,Male,asymptomatic,140,192,0,normal,148,No,0.4,v0,cl
+56,Female,atypical angina,140,294,0,probable/definite hypertrophy,153,No,1.3,v0,cl
+56,Male,non-anginal pain,130,256,1,probable/definite hypertrophy,142,Yes,0.6,v2,cl
+44,Male,atypical angina,120,263,0,normal,173,No,0,v0,cl
+52,Male,non-anginal pain,172,199,1,normal,162,No,0.5,v0,cl
+57,Male,non-anginal pain,150,168,0,normal,174,No,1.6,v0,cl
+48,Male,atypical angina,110,229,0,normal,168,No,1,v1,cl
+54,Male,asymptomatic,140,239,0,normal,160,No,1.2,v0,cl
+48,Female,non-anginal pain,130,275,0,normal,139,No,0.2,v0,cl
+49,Male,atypical angina,130,266,0,normal,171,No,0.6,v0,cl
+64,Male,typical angina,110,211,0,probable/definite hypertrophy,144,Yes,1.8,v0,cl
+58,Female,typical angina,150,283,1,probable/definite hypertrophy,162,No,1,v0,cl
+58,Male,atypical angina,120,284,0,probable/definite hypertrophy,160,No,1.8,v1,cl
+58,Male,non-anginal pain,132,224,0,probable/definite hypertrophy,173,No,3.2,v3,cl
+60,Male,asymptomatic,130,206,0,probable/definite hypertrophy,132,Yes,2.4,v4,cl
+50,Female,non-anginal pain,120,219,0,normal,158,No,1.6,v0,cl
+58,Female,non-anginal pain,120,340,0,normal,172,No,0,v0,cl
+66,Female,typical angina,150,226,0,normal,114,No,2.6,v0,cl
+43,Male,asymptomatic,150,247,0,normal,171,No,1.5,v0,cl
+40,Male,asymptomatic,110,167,0,probable/definite hypertrophy,114,Yes,2,v3,cl
+69,Female,typical angina,140,239,0,normal,151,No,1.8,v0,cl
+60,Male,asymptomatic,117,230,1,normal,160,Yes,1.4,v2,cl
+64,Male,non-anginal pain,140,335,0,normal,158,No,0,v1,cl
+59,Male,asymptomatic,135,234,0,normal,161,No,0.5,v0,cl
+44,Male,non-anginal pain,130,233,0,normal,179,Yes,0.4,v0,cl
+42,Male,asymptomatic,140,226,0,normal,178,No,0,v0,cl
+43,Male,asymptomatic,120,177,0,probable/definite hypertrophy,120,Yes,2.5,v3,cl
+57,Male,asymptomatic,150,276,0,probable/definite hypertrophy,112,Yes,0.6,v1,cl
+55,Male,asymptomatic,132,353,0,normal,132,Yes,1.2,v3,cl
+61,Male,non-anginal pain,150,243,1,normal,137,Yes,1,v0,cl
+65,Female,asymptomatic,150,225,0,probable/definite hypertrophy,114,No,1,v4,cl
+40,Male,typical angina,140,199,0,normal,178,Yes,1.4,v0,cl
+71,Female,atypical angina,160,302,0,normal,162,No,0.4,v0,cl
+59,Male,non-anginal pain,150,212,1,normal,157,No,1.6,v0,cl
+61,Female,asymptomatic,130,330,0,probable/definite hypertrophy,169,No,0,v1,cl
+58,Male,non-anginal pain,112,230,0,probable/definite hypertrophy,165,No,2.5,v4,cl
+51,Male,non-anginal pain,110,175,0,normal,123,No,0.6,v0,cl
+50,Male,asymptomatic,150,243,0,probable/definite hypertrophy,128,No,2.6,v4,cl
+65,Female,non-anginal pain,140,417,1,probable/definite hypertrophy,157,No,0.8,v0,cl
+53,Male,non-anginal pain,130,197,1,probable/definite hypertrophy,152,No,1.2,v0,cl
+41,Female,atypical angina,105,198,0,normal,168,No,0,v0,cl
+65,Male,asymptomatic,120,177,0,normal,140,No,0.4,v0,cl
+44,Male,asymptomatic,112,290,0,probable/definite hypertrophy,153,No,0,v2,cl
+44,Male,atypical angina,130,219,0,probable/definite hypertrophy,188,No,0,v0,cl
+60,Male,asymptomatic,130,253,0,normal,144,Yes,1.4,v1,cl
+54,Male,asymptomatic,124,266,0,probable/definite hypertrophy,109,Yes,2.2,v1,cl
+50,Male,non-anginal pain,140,233,0,normal,163,No,0.6,v1,cl
+41,Male,asymptomatic,110,172,0,probable/definite hypertrophy,158,No,0,v1,cl
+54,Male,non-anginal pain,125,273,0,probable/definite hypertrophy,152,No,0.5,v0,cl
+51,Male,typical angina,125,213,0,probable/definite hypertrophy,125,Yes,1.4,v0,cl
+51,Female,asymptomatic,130,305,0,normal,142,Yes,1.2,v2,cl
+46,Female,non-anginal pain,142,177,0,probable/definite hypertrophy,160,Yes,1.4,v0,cl
+58,Male,asymptomatic,128,216,0,probable/definite hypertrophy,131,Yes,2.2,v1,cl
+54,Female,non-anginal pain,135,304,1,normal,170,No,0,v0,cl
+54,Male,asymptomatic,120,188,0,normal,113,No,1.4,v2,cl
+60,Male,asymptomatic,145,282,0,probable/definite hypertrophy,142,Yes,2.8,v2,cl
+60,Male,non-anginal pain,140,185,0,probable/definite hypertrophy,155,No,3,v1,cl
+54,Male,non-anginal pain,150,232,0,probable/definite hypertrophy,165,No,1.6,v0,cl
+59,Male,asymptomatic,170,326,0,probable/definite hypertrophy,140,Yes,3.4,v2,cl
+46,Male,non-anginal pain,150,231,0,normal,147,No,3.6,v1,cl
+65,Female,non-anginal pain,155,269,0,normal,148,No,0.8,v0,cl
+67,Male,asymptomatic,125,254,1,normal,163,No,0.2,v3,cl
+62,Male,asymptomatic,120,267,0,normal,99,Yes,1.8,v1,cl
+65,Male,asymptomatic,110,248,0,probable/definite hypertrophy,158,No,0.6,v1,cl
+44,Male,asymptomatic,110,197,0,probable/definite hypertrophy,177,No,0,v1,cl
+65,Female,non-anginal pain,160,360,0,probable/definite hypertrophy,151,No,0.8,v0,cl
+60,Male,asymptomatic,125,258,0,probable/definite hypertrophy,141,Yes,2.8,v1,cl
+51,Female,non-anginal pain,140,308,0,probable/definite hypertrophy,142,No,1.5,v0,cl
+48,Male,atypical angina,130,245,0,probable/definite hypertrophy,180,No,0.2,v0,cl
+58,Male,asymptomatic,150,270,0,probable/definite hypertrophy,111,Yes,0.8,v3,cl
+45,Male,asymptomatic,104,208,0,probable/definite hypertrophy,148,Yes,3,v0,cl
+53,Female,asymptomatic,130,264,0,probable/definite hypertrophy,143,No,0.4,v0,cl
+39,Male,non-anginal pain,140,321,0,probable/definite hypertrophy,182,No,0,v0,cl
+68,Male,non-anginal pain,180,274,1,probable/definite hypertrophy,150,Yes,1.6,v3,cl
+52,Male,atypical angina,120,325,0,normal,172,No,0.2,v0,cl
+44,Male,non-anginal pain,140,235,0,probable/definite hypertrophy,180,No,0,v0,cl
+47,Male,non-anginal pain,138,257,0,probable/definite hypertrophy,156,No,0,v0,cl
+53,Female,non-anginal pain,128,216,0,probable/definite hypertrophy,115,No,0,v0,cl
+53,Female,asymptomatic,138,234,0,probable/definite hypertrophy,160,No,0,v0,cl
+51,Female,non-anginal pain,130,256,0,probable/definite hypertrophy,149,No,0.5,v0,cl
+66,Male,asymptomatic,120,302,0,probable/definite hypertrophy,151,No,0.4,v0,cl
+62,Female,asymptomatic,160,164,0,probable/definite hypertrophy,145,No,6.2,v3,cl
+62,Male,non-anginal pain,130,231,0,normal,146,No,1.8,v0,cl
+44,Female,non-anginal pain,108,141,0,normal,175,No,0.6,v0,cl
+63,Female,non-anginal pain,135,252,0,probable/definite hypertrophy,172,No,0,v0,cl
+52,Male,asymptomatic,128,255,0,normal,161,Yes,0,v1,cl
+59,Male,asymptomatic,110,239,0,probable/definite hypertrophy,142,Yes,1.2,v2,cl
+60,Female,asymptomatic,150,258,0,probable/definite hypertrophy,157,No,2.6,v3,cl
+52,Male,atypical angina,134,201,0,normal,158,No,0.8,v0,cl
+48,Male,asymptomatic,122,222,0,probable/definite hypertrophy,186,No,0,v0,cl
+45,Male,asymptomatic,115,260,0,probable/definite hypertrophy,185,No,0,v0,cl
+34,Male,typical angina,118,182,0,probable/definite hypertrophy,174,No,0,v0,cl
+57,Female,asymptomatic,128,303,0,probable/definite hypertrophy,159,No,0,v0,cl
+71,Female,non-anginal pain,110,265,1,probable/definite hypertrophy,130,No,0,v0,cl
+49,Male,non-anginal pain,120,188,0,normal,139,No,2,v3,cl
+54,Male,atypical angina,108,309,0,normal,156,No,0,v0,cl
+59,Male,asymptomatic,140,177,0,normal,162,Yes,0,v2,cl
+57,Male,non-anginal pain,128,229,0,probable/definite hypertrophy,150,No,0.4,v1,cl
+61,Male,asymptomatic,120,260,0,normal,140,Yes,3.6,v2,cl
+39,Male,asymptomatic,118,219,0,normal,140,No,1.2,v3,cl
+61,Female,asymptomatic,145,307,0,probable/definite hypertrophy,146,Yes,1,v1,cl
+56,Male,asymptomatic,125,249,1,probable/definite hypertrophy,144,Yes,1.2,v1,cl
+52,Male,typical angina,118,186,0,probable/definite hypertrophy,190,No,0,v0,cl
+43,Female,asymptomatic,132,341,1,probable/definite hypertrophy,136,Yes,3,v2,cl
+62,Female,non-anginal pain,130,263,0,normal,97,No,1.2,v2,cl
+41,Male,atypical angina,135,203,0,normal,132,No,0,v0,cl
+58,Male,non-anginal pain,140,211,1,probable/definite hypertrophy,165,No,0,v0,cl
+35,Female,asymptomatic,138,183,0,normal,182,No,1.4,v0,cl
+63,Male,asymptomatic,130,330,1,probable/definite hypertrophy,132,Yes,1.8,v3,cl
+65,Male,asymptomatic,135,254,0,probable/definite hypertrophy,127,No,2.8,v2,cl
+48,Male,asymptomatic,130,256,1,probable/definite hypertrophy,150,Yes,0,v3,cl
+63,Female,asymptomatic,150,407,0,probable/definite hypertrophy,154,No,4,v4,cl
+51,Male,non-anginal pain,100,222,0,normal,143,Yes,1.2,v0,cl
+55,Male,asymptomatic,140,217,0,normal,111,Yes,5.6,v3,cl
+65,Male,typical angina,138,282,1,probable/definite hypertrophy,174,No,1.4,v1,cl
+45,Female,atypical angina,130,234,0,probable/definite hypertrophy,175,No,0.6,v0,cl
+56,Female,asymptomatic,200,288,1,probable/definite hypertrophy,133,Yes,4,v3,cl
+54,Male,asymptomatic,110,239,0,normal,126,Yes,2.8,v3,cl
+44,Male,atypical angina,120,220,0,normal,170,No,0,v0,cl
+62,Female,asymptomatic,124,209,0,normal,163,No,0,v0,cl
+54,Male,non-anginal pain,120,258,0,probable/definite hypertrophy,147,No,0.4,v0,cl
+51,Male,non-anginal pain,94,227,0,normal,154,Yes,0,v0,cl
+29,Male,atypical angina,130,204,0,probable/definite hypertrophy,202,No,0,v0,cl
+51,Male,asymptomatic,140,261,0,probable/definite hypertrophy,186,Yes,0,v0,cl
+43,Female,non-anginal pain,122,213,0,normal,165,No,0.2,v0,cl
+55,Female,atypical angina,135,250,0,probable/definite hypertrophy,161,No,1.4,v0,cl
+70,Male,asymptomatic,145,174,0,normal,125,Yes,2.6,v4,cl
+62,Male,atypical angina,120,281,0,probable/definite hypertrophy,103,No,1.4,v3,cl
+35,Male,asymptomatic,120,198,0,normal,130,Yes,1.6,v1,cl
+51,Male,non-anginal pain,125,245,1,probable/definite hypertrophy,166,No,2.4,v0,cl
+59,Male,atypical angina,140,221,0,normal,164,Yes,0,v0,cl
+59,Male,typical angina,170,288,0,probable/definite hypertrophy,159,No,0.2,v1,cl
+52,Male,atypical angina,128,205,1,normal,184,No,0,v0,cl
+64,Male,non-anginal pain,125,309,0,normal,131,Yes,1.8,v1,cl
+58,Male,non-anginal pain,105,240,0,probable/definite hypertrophy,154,Yes,0.6,v0,cl
+47,Male,non-anginal pain,108,243,0,normal,152,No,0,v1,cl
+57,Male,asymptomatic,165,289,1,probable/definite hypertrophy,124,No,1,v4,cl
+41,Male,non-anginal pain,112,250,0,normal,179,No,0,v0,cl
+45,Male,atypical angina,128,308,0,probable/definite hypertrophy,170,No,0,v0,cl
+60,Female,non-anginal pain,102,318,0,normal,160,No,0,v0,cl
+52,Male,typical angina,152,298,1,normal,178,No,1.2,v0,cl
+42,Female,asymptomatic,102,265,0,probable/definite hypertrophy,122,No,0.6,v0,cl
+67,Female,non-anginal pain,115,564,0,probable/definite hypertrophy,160,No,1.6,v0,cl
+55,Male,asymptomatic,160,289,0,probable/definite hypertrophy,145,Yes,0.8,v4,cl
+64,Male,asymptomatic,120,246,0,probable/definite hypertrophy,96,Yes,2.2,v3,cl
+70,Male,asymptomatic,130,322,0,probable/definite hypertrophy,109,No,2.4,v1,cl
+51,Male,asymptomatic,140,299,0,normal,173,Yes,1.6,v1,cl
+58,Male,asymptomatic,125,300,0,probable/definite hypertrophy,171,No,0,v1,cl
+60,Male,asymptomatic,140,293,0,probable/definite hypertrophy,170,No,1.2,v2,cl
+68,Male,non-anginal pain,118,277,0,normal,151,No,1,v0,cl
+46,Male,atypical angina,101,197,1,normal,156,No,0,v0,cl
+77,Male,asymptomatic,125,304,0,probable/definite hypertrophy,162,Yes,0,v4,cl
+54,Female,non-anginal pain,110,214,0,normal,158,No,1.6,v0,cl
+58,Female,asymptomatic,100,248,0,probable/definite hypertrophy,122,No,1,v0,cl
+48,Male,non-anginal pain,124,255,1,normal,175,No,0,v0,cl
+57,Male,asymptomatic,132,207,0,normal,168,Yes,0,v0,cl
+52,Male,non-anginal pain,138,223,0,normal,169,No,0,v0,cl
+54,Female,atypical angina,132,288,1,probable/definite hypertrophy,159,Yes,0,v0,cl
+35,Male,asymptomatic,126,282,0,probable/definite hypertrophy,156,Yes,0,v1,cl
+45,Female,atypical angina,112,160,0,normal,138,No,0,v0,cl
+70,Male,non-anginal pain,160,269,0,normal,112,Yes,2.9,v3,cl
+53,Male,asymptomatic,142,226,0,probable/definite hypertrophy,111,Yes,0,v0,cl
+59,Female,asymptomatic,174,249,0,normal,143,Yes,0,v1,cl
+62,Female,asymptomatic,140,394,0,probable/definite hypertrophy,157,No,1.2,v0,cl
+64,Male,asymptomatic,145,212,0,probable/definite hypertrophy,132,No,2,v4,cl
+57,Male,asymptomatic,152,274,0,normal,88,Yes,1.2,v1,cl
+52,Male,asymptomatic,108,233,1,normal,147,No,0.1,v0,cl
+56,Male,asymptomatic,132,184,0,probable/definite hypertrophy,105,Yes,2.1,v1,cl
+43,Male,non-anginal pain,130,315,0,normal,162,No,1.9,v0,cl
+53,Male,non-anginal pain,130,246,1,probable/definite hypertrophy,173,No,0,v0,cl
+48,Male,asymptomatic,124,274,0,probable/definite hypertrophy,166,No,0.5,v3,cl
+56,Female,asymptomatic,134,409,0,probable/definite hypertrophy,150,Yes,1.9,v2,cl
+42,Male,typical angina,148,244,0,probable/definite hypertrophy,178,No,0.8,v0,cl
+59,Male,typical angina,178,270,0,probable/definite hypertrophy,145,No,4.2,v0,cl
+60,Female,asymptomatic,158,305,0,probable/definite hypertrophy,161,No,0,v1,cl
+63,Female,atypical angina,140,195,0,normal,179,No,0,v0,cl
+42,Male,non-anginal pain,120,240,1,normal,194,No,0.8,v0,cl
+66,Male,atypical angina,160,246,0,normal,120,Yes,0,v2,cl
+54,Male,atypical angina,192,283,0,probable/definite hypertrophy,195,No,0,v1,cl
+69,Male,non-anginal pain,140,254,0,probable/definite hypertrophy,146,No,2,v2,cl
+50,Male,non-anginal pain,129,196,0,normal,163,No,0,v0,cl
+51,Male,asymptomatic,140,298,0,normal,122,Yes,4.2,v3,cl
+43,Male,asymptomatic,132,247,1,probable/definite hypertrophy,143,Yes,0.1,v1,cl
+62,Female,asymptomatic,138,294,1,normal,106,No,1.9,v2,cl
+68,Female,non-anginal pain,120,211,0,probable/definite hypertrophy,115,No,1.5,v0,cl
+67,Male,asymptomatic,100,299,0,probable/definite hypertrophy,125,Yes,0.9,v3,cl
+69,Male,typical angina,160,234,1,probable/definite hypertrophy,131,No,0.1,v0,cl
+45,Female,asymptomatic,138,236,0,probable/definite hypertrophy,152,Yes,0.2,v0,cl
+50,Female,atypical angina,120,244,0,normal,162,No,1.1,v0,cl
+59,Male,typical angina,160,273,0,probable/definite hypertrophy,125,No,0,v1,cl
+50,Female,asymptomatic,110,254,0,probable/definite hypertrophy,159,No,0,v0,cl
+64,Female,asymptomatic,180,325,0,normal,154,Yes,0,v0,cl
+57,Male,non-anginal pain,150,126,1,normal,173,No,0.2,v0,cl
+64,Female,non-anginal pain,140,313,0,normal,133,No,0.2,v0,cl
+43,Male,asymptomatic,110,211,0,normal,161,No,0,v0,cl
+45,Male,asymptomatic,142,309,0,probable/definite hypertrophy,147,Yes,0,v3,cl
+58,Male,asymptomatic,128,259,0,probable/definite hypertrophy,130,Yes,3,v3,cl
+50,Male,asymptomatic,144,200,0,probable/definite hypertrophy,126,Yes,0.9,v3,cl
+55,Male,atypical angina,130,262,0,normal,155,No,0,v0,cl
+62,Female,asymptomatic,150,244,0,normal,154,Yes,1.4,v1,cl
+37,Female,non-anginal pain,120,215,0,normal,170,No,0,v0,cl
+38,Male,typical angina,120,231,0,normal,182,Yes,3.8,v4,cl
+41,Male,non-anginal pain,130,214,0,probable/definite hypertrophy,168,No,2,v0,cl
+66,Female,asymptomatic,178,228,1,normal,165,Yes,1,v3,cl
+52,Male,asymptomatic,112,230,0,normal,160,No,0,v1,cl
+56,Male,typical angina,120,193,0,probable/definite hypertrophy,162,No,1.9,v0,cl
+46,Female,atypical angina,105,204,0,normal,172,No,0,v0,cl
+46,Female,asymptomatic,138,243,0,probable/definite hypertrophy,152,Yes,0,v0,cl
+64,Female,asymptomatic,130,303,0,normal,122,No,2,v0,cl
+59,Male,asymptomatic,138,271,0,probable/definite hypertrophy,182,No,0,v0,cl
+41,Female,non-anginal pain,112,268,0,probable/definite hypertrophy,172,Yes,0,v0,cl
+54,Female,non-anginal pain,108,267,0,probable/definite hypertrophy,167,No,0,v0,cl
+39,Female,non-anginal pain,94,199,0,normal,179,No,0,v0,cl
+53,Male,asymptomatic,123,282,0,normal,95,Yes,2,v3,cl
+63,Female,asymptomatic,108,269,0,normal,169,Yes,1.8,v1,cl
+34,Female,atypical angina,118,210,0,normal,192,No,0.7,v0,cl
+47,Male,asymptomatic,112,204,0,normal,143,No,0.1,v0,cl
+67,Female,non-anginal pain,152,277,0,normal,172,No,0,v0,cl
+54,Male,asymptomatic,110,206,0,probable/definite hypertrophy,108,Yes,0,v3,cl
+66,Male,asymptomatic,112,212,0,probable/definite hypertrophy,132,Yes,0.1,v2,cl
+52,Female,non-anginal pain,136,196,0,probable/definite hypertrophy,169,No,0.1,v0,cl
+55,Female,asymptomatic,180,327,0,ST-T wave abnormality,117,Yes,3.4,v2,cl
+49,Male,non-anginal pain,118,149,0,probable/definite hypertrophy,126,No,0.8,v1,cl
+74,Female,atypical angina,120,269,0,probable/definite hypertrophy,121,Yes,0.2,v0,cl
+54,Female,non-anginal pain,160,201,0,normal,163,No,0,v0,cl
+54,Male,asymptomatic,122,286,0,probable/definite hypertrophy,116,Yes,3.2,v3,cl
+56,Male,asymptomatic,130,283,1,probable/definite hypertrophy,103,Yes,1.6,v2,cl
+46,Male,asymptomatic,120,249,0,probable/definite hypertrophy,144,No,0.8,v1,cl
+49,Female,atypical angina,134,271,0,normal,162,No,0,v0,cl
+42,Male,atypical angina,120,295,0,normal,162,No,0,v0,cl
+41,Male,atypical angina,110,235,0,normal,153,No,0,v0,cl
+41,Female,atypical angina,126,306,0,normal,163,No,0,v0,cl
+49,Female,asymptomatic,130,269,0,normal,163,No,0,v0,cl
+61,Male,typical angina,134,234,0,normal,145,No,2.6,v2,cl
+60,Female,non-anginal pain,120,178,1,normal,96,No,0,v0,cl
+67,Male,asymptomatic,120,237,0,normal,71,No,1,v2,cl
+58,Male,asymptomatic,100,234,0,normal,156,No,0.1,v2,cl
+47,Male,asymptomatic,110,275,0,probable/definite hypertrophy,118,Yes,1,v1,cl
+52,Male,asymptomatic,125,212,0,normal,168,No,1,v3,cl
+62,Male,atypical angina,128,208,1,probable/definite hypertrophy,140,No,0,v0,cl
+57,Male,asymptomatic,110,201,0,normal,126,Yes,1.5,v0,cl
+58,Male,asymptomatic,146,218,0,normal,105,No,2,v1,cl
+64,Male,asymptomatic,128,263,0,normal,105,Yes,0.2,v0,cl
+51,Female,non-anginal pain,120,295,0,probable/definite hypertrophy,157,No,0.6,v0,cl
+43,Male,asymptomatic,115,303,0,normal,181,No,1.2,v0,cl
+42,Female,non-anginal pain,120,209,0,normal,173,No,0,v0,cl
+67,Female,asymptomatic,106,223,0,normal,142,No,0.3,v0,cl
+76,Female,non-anginal pain,140,197,0,ST-T wave abnormality,116,No,1.1,v0,cl
+70,Male,atypical angina,156,245,0,probable/definite hypertrophy,143,No,0,v0,cl
+57,Male,atypical angina,124,261,0,normal,141,No,0.3,v1,cl
+44,Female,non-anginal pain,118,242,0,normal,149,No,0.3,v0,cl
+58,Female,atypical angina,136,319,1,probable/definite hypertrophy,152,No,0,v3,cl
+60,Female,typical angina,150,240,0,normal,171,No,0.9,v0,cl
+44,Male,non-anginal pain,120,226,0,normal,169,No,0,v0,cl
+61,Male,asymptomatic,138,166,0,probable/definite hypertrophy,125,Yes,3.6,v4,cl
+42,Male,asymptomatic,136,315,0,normal,125,Yes,1.8,v2,cl
+52,Male,asymptomatic,128,204,1,normal,156,Yes,1,v2,cl
+59,Male,non-anginal pain,126,218,1,normal,134,No,2.2,v2,cl
+40,Male,asymptomatic,152,223,0,normal,181,No,0,v1,cl
+42,Male,non-anginal pain,130,180,0,normal,150,No,0,v0,cl
+61,Male,asymptomatic,140,207,0,probable/definite hypertrophy,138,Yes,1.9,v1,cl
+66,Male,asymptomatic,160,228,0,probable/definite hypertrophy,138,No,2.3,v0,cl
+46,Male,asymptomatic,140,311,0,normal,120,Yes,1.8,v2,cl
+71,Female,asymptomatic,112,149,0,normal,125,No,1.6,v0,cl
+59,Male,typical angina,134,204,0,normal,162,No,0.8,v1,cl
+64,Male,typical angina,170,227,0,probable/definite hypertrophy,155,No,0.6,v0,cl
+66,Female,non-anginal pain,146,278,0,probable/definite hypertrophy,152,No,0,v0,cl
+39,Female,non-anginal pain,138,220,0,normal,152,No,0,v0,cl
+57,Male,atypical angina,154,232,0,probable/definite hypertrophy,164,No,0,v1,cl
+58,Female,asymptomatic,130,197,0,normal,131,No,0.6,v0,cl
+57,Male,asymptomatic,110,335,0,normal,143,Yes,3,v2,cl
+47,Male,non-anginal pain,130,253,0,normal,179,No,0,v0,cl
+55,Female,asymptomatic,128,205,0,ST-T wave abnormality,130,Yes,2,v3,cl
+35,Male,atypical angina,122,192,0,normal,174,No,0,v0,cl
+61,Male,asymptomatic,148,203,0,normal,161,No,0,v2,cl
+58,Male,asymptomatic,114,318,0,ST-T wave abnormality,140,No,4.4,v4,cl
+58,Female,asymptomatic,170,225,1,probable/definite hypertrophy,146,Yes,2.8,v2,cl
+58,Male,atypical angina,125,220,0,normal,144,No,0.4,v0,cl
+56,Male,atypical angina,130,221,0,probable/definite hypertrophy,163,No,0,v0,cl
+56,Male,atypical angina,120,240,0,normal,169,No,0,v0,cl
+67,Male,non-anginal pain,152,212,0,probable/definite hypertrophy,150,No,0.8,v1,cl
+55,Female,atypical angina,132,342,0,normal,166,No,1.2,v0,cl
+44,Male,asymptomatic,120,169,0,normal,144,Yes,2.8,v2,cl
+63,Male,asymptomatic,140,187,0,probable/definite hypertrophy,144,Yes,4,v2,cl
+63,Female,asymptomatic,124,197,0,normal,136,Yes,0,v1,cl
+41,Male,atypical angina,120,157,0,normal,182,No,0,v0,cl
+59,Male,asymptomatic,164,176,1,probable/definite hypertrophy,90,No,1,v3,cl
+57,Female,asymptomatic,140,241,0,normal,123,Yes,0.2,v1,cl
+45,Male,typical angina,110,264,0,normal,132,No,1.2,v1,cl
+68,Male,asymptomatic,144,193,1,normal,141,No,3.4,v2,cl
+57,Male,asymptomatic,130,131,0,normal,115,Yes,1.2,v3,cl
+57,Female,atypical angina,130,236,0,probable/definite hypertrophy,174,No,0,v1,cl
+38,Male,non-anginal pain,138,175,0,normal,173,No,0,v0,cl
+28,Male,atypical angina,130,132,0,probable/definite hypertrophy,185,No,0,v0,hu
+29,Male,atypical angina,120,243,0,normal,160,No,0,v0,hu
+30,Female,typical angina,170,237,0,ST-T wave abnormality,170,No,0,v0,hu
+31,Female,atypical angina,100,219,0,ST-T wave abnormality,150,No,0,v0,hu
+32,Female,atypical angina,105,198,0,normal,165,No,0,v0,hu
+32,Male,atypical angina,110,225,0,normal,184,No,0,v0,hu
+32,Male,atypical angina,125,254,0,normal,155,No,0,v0,hu
+33,Male,non-anginal pain,120,298,0,normal,185,No,0,v0,hu
+34,Female,atypical angina,130,161,0,normal,190,No,0,v0,hu
+34,Male,atypical angina,150,214,0,ST-T wave abnormality,168,No,0,v0,hu
+34,Male,atypical angina,98,220,0,normal,150,No,0,v0,hu
+35,Female,typical angina,120,160,0,ST-T wave abnormality,185,No,0,v0,hu
+35,Female,asymptomatic,140,167,0,normal,150,No,0,v0,hu
+35,Male,atypical angina,120,308,0,probable/definite hypertrophy,180,No,0,v0,hu
+35,Male,atypical angina,150,264,0,normal,168,No,0,v0,hu
+36,Male,atypical angina,120,166,0,normal,180,No,0,v0,hu
+36,Male,non-anginal pain,112,340,0,normal,184,No,1,v0,hu
+36,Male,non-anginal pain,130,209,0,normal,178,No,0,v0,hu
+36,Male,non-anginal pain,150,160,0,normal,172,No,0,v0,hu
+37,Female,atypical angina,120,260,0,normal,130,No,0,v0,hu
+37,Female,non-anginal pain,130,211,0,normal,142,No,0,v0,hu
+37,Female,asymptomatic,130,173,0,ST-T wave abnormality,184,No,0,v0,hu
+37,Male,atypical angina,130,283,0,ST-T wave abnormality,98,No,0,v0,hu
+37,Male,non-anginal pain,130,194,0,normal,150,No,0,v0,hu
+37,Male,asymptomatic,120,223,0,normal,168,No,0,v0,hu
+37,Male,asymptomatic,130,315,0,normal,158,No,0,v0,hu
+38,Male,atypical angina,140,297,0,normal,150,No,0,v0,hu
+38,Male,non-anginal pain,145,292,0,normal,130,No,0,v0,hu
+39,Female,non-anginal pain,110,182,0,ST-T wave abnormality,180,No,0,v0,hu
+39,Male,atypical angina,120,200,0,normal,160,Yes,1,v0,hu
+39,Male,atypical angina,120,204,0,normal,145,No,0,v0,hu
+39,Male,atypical angina,190,241,0,normal,106,No,0,v0,hu
+39,Male,non-anginal pain,120,339,0,normal,170,No,0,v0,hu
+39,Male,non-anginal pain,160,147,1,normal,160,No,0,v0,hu
+39,Male,asymptomatic,110,273,0,normal,132,No,0,v0,hu
+39,Male,asymptomatic,130,307,0,normal,140,No,0,v0,hu
+40,Male,atypical angina,130,275,0,normal,150,No,0,v0,hu
+40,Male,atypical angina,140,289,0,normal,172,No,0,v0,hu
+40,Male,non-anginal pain,130,215,0,normal,138,No,0,v0,hu
+40,Male,non-anginal pain,130,281,0,normal,167,No,0,v0,hu
+41,Female,atypical angina,110,250,0,ST-T wave abnormality,142,No,0,v0,hu
+41,Female,atypical angina,125,184,0,normal,180,No,0,v0,hu
+41,Female,atypical angina,130,245,0,normal,150,No,0,v0,hu
+41,Male,atypical angina,120,291,0,ST-T wave abnormality,160,No,0,v0,hu
+41,Male,atypical angina,120,295,0,normal,170,No,0,v0,hu
+41,Male,atypical angina,125,269,0,normal,144,No,0,v0,hu
+41,Male,asymptomatic,112,250,0,normal,142,No,0,v0,hu
+42,Female,non-anginal pain,115,211,0,ST-T wave abnormality,137,No,0,v0,hu
+42,Male,atypical angina,120,196,0,normal,150,No,0,v0,hu
+42,Male,atypical angina,120,198,0,normal,155,No,0,v0,hu
+42,Male,atypical angina,150,268,0,normal,136,No,0,v0,hu
+42,Male,non-anginal pain,120,228,0,normal,152,Yes,1.5,v0,hu
+42,Male,non-anginal pain,160,147,0,normal,146,No,0,v0,hu
+42,Male,asymptomatic,140,358,0,normal,170,No,0,v0,hu
+43,Female,typical angina,100,223,0,normal,142,No,0,v0,hu
+43,Female,atypical angina,120,201,0,normal,165,No,0,v0,hu
+43,Female,atypical angina,120,215,0,ST-T wave abnormality,175,No,0,v0,hu
+43,Female,atypical angina,120,249,0,ST-T wave abnormality,176,No,0,v0,hu
+43,Female,atypical angina,120,266,0,normal,118,No,0,v0,hu
+43,Female,atypical angina,150,186,0,normal,154,No,0,v0,hu
+43,Male,atypical angina,142,207,0,normal,138,No,0,v0,hu
+44,Female,asymptomatic,120,218,0,ST-T wave abnormality,115,No,0,v0,hu
+44,Male,atypical angina,120,184,0,normal,142,No,1,v0,hu
+44,Male,atypical angina,130,215,0,normal,135,No,0,v0,hu
+44,Male,asymptomatic,150,412,0,normal,170,No,0,v0,hu
+45,Female,atypical angina,130,237,0,normal,170,No,0,v0,hu
+45,Female,asymptomatic,132,297,0,normal,144,No,0,v0,hu
+45,Male,atypical angina,140,224,1,normal,122,No,0,v0,hu
+45,Male,asymptomatic,120,225,0,normal,140,No,0,v0,hu
+45,Male,asymptomatic,140,224,0,normal,144,No,0,v0,hu
+46,Female,asymptomatic,130,238,0,normal,90,No,0,v0,hu
+46,Male,atypical angina,140,275,0,normal,165,Yes,0,v0,hu
+46,Male,non-anginal pain,120,230,0,normal,150,No,0,v0,hu
+46,Male,asymptomatic,110,238,0,ST-T wave abnormality,140,Yes,1,v0,hu
+46,Male,asymptomatic,110,240,0,ST-T wave abnormality,140,No,0,v0,hu
+46,Male,asymptomatic,180,280,0,ST-T wave abnormality,120,No,0,v0,hu
+47,Female,atypical angina,140,257,0,normal,135,No,1,v0,hu
+47,Male,typical angina,110,249,0,normal,150,No,0,v0,hu
+47,Male,atypical angina,160,263,0,normal,174,No,0,v0,hu
+47,Male,asymptomatic,140,276,1,normal,125,Yes,0,v0,hu
+48,Female,atypical angina,120,284,0,normal,120,No,0,v0,hu
+48,Female,non-anginal pain,120,195,0,normal,125,No,0,v0,hu
+48,Female,asymptomatic,108,163,0,normal,175,No,2,v0,hu
+48,Female,asymptomatic,120,254,0,ST-T wave abnormality,110,No,0,v0,hu
+48,Female,asymptomatic,150,227,0,normal,130,Yes,1,v0,hu
+48,Male,atypical angina,130,245,0,normal,160,No,0,v0,hu
+48,Male,atypical angina,140,238,0,normal,118,No,0,v0,hu
+48,Male,non-anginal pain,110,211,0,normal,138,No,0,v0,hu
+49,Female,atypical angina,124,201,0,normal,164,No,0,v0,hu
+49,Female,non-anginal pain,130,207,0,ST-T wave abnormality,135,No,0,v0,hu
+49,Male,atypical angina,100,253,0,normal,174,No,0,v0,hu
+49,Male,non-anginal pain,140,187,0,normal,172,No,0,v0,hu
+50,Female,atypical angina,110,202,0,normal,145,No,0,v0,hu
+50,Female,asymptomatic,120,328,0,normal,110,Yes,1,v0,hu
+50,Male,atypical angina,120,168,0,normal,160,No,0,v0,hu
+50,Male,atypical angina,140,216,0,normal,170,No,0,v0,hu
+50,Male,atypical angina,170,209,0,ST-T wave abnormality,116,No,0,v0,hu
+50,Male,asymptomatic,140,129,0,normal,135,No,0,v0,hu
+50,Male,asymptomatic,150,215,0,normal,140,Yes,0,v0,hu
+51,Female,atypical angina,160,194,0,normal,170,No,0,v0,hu
+51,Female,non-anginal pain,110,190,0,normal,120,No,0,v0,hu
+51,Female,non-anginal pain,130,220,0,normal,160,Yes,2,v0,hu
+51,Female,non-anginal pain,150,200,0,normal,120,No,0.5,v0,hu
+51,Male,atypical angina,125,188,0,normal,145,No,0,v0,hu
+51,Male,atypical angina,130,224,0,normal,150,No,0,v0,hu
+51,Male,asymptomatic,130,179,0,normal,100,No,0,v0,hu
+52,Female,atypical angina,120,210,0,normal,148,No,0,v0,hu
+52,Female,non-anginal pain,125,272,0,normal,139,No,0,v0,hu
+52,Female,asymptomatic,130,180,0,normal,140,Yes,1.5,v0,hu
+52,Male,atypical angina,120,284,0,normal,118,No,0,v0,hu
+52,Male,atypical angina,140,100,0,normal,138,Yes,0,v0,hu
+52,Male,atypical angina,160,196,0,normal,165,No,0,v0,hu
+52,Male,non-anginal pain,140,259,0,ST-T wave abnormality,170,No,0,v0,hu
+53,Female,atypical angina,140,216,0,normal,142,Yes,2,v0,hu
+53,Female,non-anginal pain,120,274,0,normal,130,No,0,v0,hu
+53,Male,atypical angina,140,320,0,normal,162,No,0,v0,hu
+53,Male,non-anginal pain,120,195,0,normal,140,No,0,v0,hu
+53,Male,asymptomatic,124,260,0,ST-T wave abnormality,112,Yes,3,v0,hu
+53,Male,asymptomatic,130,182,0,normal,148,No,0,v0,hu
+53,Male,asymptomatic,140,243,0,normal,155,No,0,v0,hu
+54,Female,atypical angina,120,221,0,normal,138,No,1,v0,hu
+54,Female,atypical angina,120,230,1,normal,140,No,0,v0,hu
+54,Female,atypical angina,120,273,0,normal,150,No,1.5,v0,hu
+54,Female,atypical angina,130,253,0,ST-T wave abnormality,155,No,0,v0,hu
+54,Female,atypical angina,150,230,0,normal,130,No,0,v0,hu
+54,Female,atypical angina,160,312,0,normal,130,No,0,v0,hu
+54,Male,typical angina,120,171,0,normal,137,No,2,v0,hu
+54,Male,atypical angina,110,208,0,normal,142,No,0,v0,hu
+54,Male,atypical angina,120,238,0,normal,154,No,0,v0,hu
+54,Male,atypical angina,120,246,0,normal,110,No,0,v0,hu
+54,Male,atypical angina,160,195,0,ST-T wave abnormality,130,No,1,v0,hu
+54,Male,atypical angina,160,305,0,normal,175,No,0,v0,hu
+54,Male,non-anginal pain,120,217,0,normal,137,No,0,v0,hu
+54,Male,asymptomatic,150,365,0,ST-T wave abnormality,134,No,1,v0,hu
+55,Female,atypical angina,110,344,0,ST-T wave abnormality,160,No,0,v0,hu
+55,Female,atypical angina,122,320,0,normal,155,No,0,v0,hu
+55,Female,atypical angina,130,394,0,probable/definite hypertrophy,150,No,0,v0,hu
+55,Male,atypical angina,120,256,1,normal,137,No,0,v0,hu
+55,Male,atypical angina,140,196,0,normal,150,No,0,v0,hu
+55,Male,atypical angina,145,326,0,normal,155,No,0,v0,hu
+55,Male,non-anginal pain,110,277,0,normal,160,No,0,v0,hu
+55,Male,non-anginal pain,120,220,0,probable/definite hypertrophy,134,No,0,v0,hu
+55,Male,asymptomatic,120,270,0,normal,140,No,0,v0,hu
+55,Male,asymptomatic,140,229,0,normal,110,Yes,0.5,v0,hu
+56,Male,atypical angina,130,184,0,normal,100,No,0,v0,hu
+56,Male,non-anginal pain,130,276,0,normal,128,Yes,1,v0,hu
+56,Male,asymptomatic,120,85,0,normal,140,No,0,v0,hu
+57,Female,typical angina,130,308,0,normal,98,No,1,v0,hu
+57,Female,asymptomatic,180,347,0,ST-T wave abnormality,126,Yes,0.8,v0,hu
+57,Male,atypical angina,140,260,1,normal,140,No,0,v0,hu
+58,Male,atypical angina,130,230,0,normal,150,No,0,v0,hu
+58,Male,atypical angina,130,251,0,normal,110,No,0,v0,hu
+58,Male,non-anginal pain,140,179,0,normal,160,No,0,v0,hu
+58,Male,asymptomatic,135,222,0,normal,100,No,0,v0,hu
+59,Female,atypical angina,130,188,0,normal,124,No,1,v0,hu
+59,Male,atypical angina,140,287,0,normal,150,No,0,v0,hu
+59,Male,non-anginal pain,130,318,0,normal,120,Yes,1,v0,hu
+59,Male,non-anginal pain,180,213,0,normal,100,No,0,v0,hu
+60,Male,non-anginal pain,120,246,0,probable/definite hypertrophy,135,No,0,v0,hu
+61,Female,asymptomatic,130,294,0,ST-T wave abnormality,120,Yes,1,v0,hu
+61,Male,asymptomatic,125,292,0,ST-T wave abnormality,115,Yes,0,v0,hu
+62,Female,typical angina,160,193,0,normal,116,No,0,v0,hu
+62,Male,atypical angina,140,271,0,normal,152,No,1,v0,hu
+31,Male,asymptomatic,120,270,0,normal,153,Yes,1.5,v1,hu
+33,Female,asymptomatic,100,246,0,normal,150,Yes,1,v1,hu
+34,Male,typical angina,140,156,0,normal,180,No,0,v1,hu
+35,Male,atypical angina,110,257,0,normal,140,No,0,v1,hu
+36,Male,atypical angina,120,267,0,normal,160,No,3,v1,hu
+37,Male,asymptomatic,140,207,0,normal,130,Yes,1.5,v1,hu
+38,Male,asymptomatic,110,196,0,normal,166,No,0,v1,hu
+38,Male,asymptomatic,120,282,0,normal,170,No,0,v1,hu
+38,Male,asymptomatic,92,117,0,normal,134,Yes,2.5,v1,hu
+41,Male,asymptomatic,110,289,0,normal,170,No,0,v1,hu
+43,Male,asymptomatic,150,247,0,normal,130,Yes,2,v1,hu
+46,Male,asymptomatic,110,202,0,normal,150,Yes,0,v1,hu
+46,Male,asymptomatic,118,186,0,normal,124,No,0,v1,hu
+46,Male,asymptomatic,120,277,0,normal,125,Yes,1,v1,hu
+47,Male,non-anginal pain,140,193,0,normal,145,Yes,1,v1,hu
+47,Male,asymptomatic,150,226,0,normal,98,Yes,1.5,v1,hu
+48,Male,asymptomatic,106,263,1,normal,110,No,0,v1,hu
+48,Male,asymptomatic,120,260,0,normal,115,No,2,v1,hu
+48,Male,asymptomatic,160,268,0,normal,103,Yes,1,v1,hu
+49,Female,non-anginal pain,160,180,0,normal,156,No,1,v1,hu
+49,Male,non-anginal pain,115,265,0,normal,175,No,0,v1,hu
+49,Male,asymptomatic,130,206,0,normal,170,No,0,v1,hu
+50,Female,non-anginal pain,140,288,0,normal,140,Yes,0,v1,hu
+50,Male,asymptomatic,145,264,0,normal,150,No,0,v1,hu
+51,Female,asymptomatic,160,303,0,normal,150,Yes,1,v1,hu
+52,Male,asymptomatic,130,225,0,normal,120,Yes,2,v1,hu
+54,Male,asymptomatic,125,216,0,normal,140,No,0,v1,hu
+54,Male,asymptomatic,125,224,0,normal,122,No,2,v1,hu
+55,Male,asymptomatic,140,201,0,normal,130,Yes,3,v1,hu
+57,Male,atypical angina,140,265,0,ST-T wave abnormality,145,Yes,1,v1,hu
+58,Male,non-anginal pain,130,213,0,ST-T wave abnormality,140,No,0,v1,hu
+59,Female,asymptomatic,130,338,1,ST-T wave abnormality,130,Yes,1.5,v1,hu
+60,Male,asymptomatic,100,248,0,normal,125,No,1,v1,hu
+63,Male,asymptomatic,150,223,0,normal,115,No,0,v1,hu
+65,Male,asymptomatic,140,306,1,normal,87,Yes,1.5,v1,hu
+32,Male,asymptomatic,118,529,0,normal,130,No,0,v1,hu
+39,Male,asymptomatic,110,280,0,normal,150,No,0,v1,hu
+40,Female,asymptomatic,150,392,0,normal,130,No,2,v1,hu
+43,Male,typical angina,120,291,0,ST-T wave abnormality,155,No,0,v1,hu
+45,Male,asymptomatic,130,219,0,ST-T wave abnormality,130,Yes,1,v1,hu
+46,Male,asymptomatic,120,231,0,normal,115,Yes,0,v1,hu
+46,Male,asymptomatic,130,222,0,normal,112,No,0,v1,hu
+48,Male,asymptomatic,122,275,1,ST-T wave abnormality,150,Yes,2,v1,hu
+48,Male,asymptomatic,160,193,0,normal,102,Yes,3,v1,hu
+48,Male,asymptomatic,160,329,0,normal,92,Yes,1.5,v1,hu
+48,Male,asymptomatic,160,355,0,normal,99,Yes,2,v1,hu
+50,Male,asymptomatic,130,233,0,normal,121,Yes,2,v1,hu
+52,Male,asymptomatic,120,182,0,normal,150,No,0,v1,hu
+53,Male,asymptomatic,120,246,0,normal,116,Yes,0,v1,hu
+54,Male,non-anginal pain,120,237,0,normal,150,Yes,1.5,v1,hu
+54,Male,asymptomatic,130,242,0,normal,91,Yes,1,v1,hu
+54,Male,asymptomatic,130,603,1,normal,125,Yes,1,v1,hu
+54,Male,asymptomatic,200,198,0,normal,142,Yes,2,v1,hu
+55,Male,asymptomatic,140,268,0,normal,128,Yes,1.5,v1,hu
+56,Male,asymptomatic,150,213,1,normal,125,Yes,1,v1,hu
+57,Male,asymptomatic,150,255,0,normal,92,Yes,3,v1,hu
+58,Male,non-anginal pain,160,211,1,ST-T wave abnormality,92,No,0,v1,hu
+58,Male,asymptomatic,130,263,0,normal,140,Yes,2,v1,hu
+41,Male,asymptomatic,130,172,0,ST-T wave abnormality,130,No,2,v1,hu
+43,Male,asymptomatic,120,175,0,normal,120,Yes,1,v1,hu
+44,Male,atypical angina,150,288,0,normal,150,Yes,3,v1,hu
+44,Male,asymptomatic,130,290,0,normal,100,Yes,2,v1,hu
+46,Male,typical angina,140,272,1,normal,175,No,2,v1,hu
+47,Female,non-anginal pain,135,248,1,normal,170,No,0,v1,hu
+48,Female,asymptomatic,138,214,0,normal,108,Yes,1.5,v1,hu
+49,Male,asymptomatic,130,341,0,normal,120,Yes,1,v1,hu
+49,Male,asymptomatic,140,234,0,normal,140,Yes,1,v1,hu
+51,Male,non-anginal pain,135,160,0,normal,150,No,2,v1,hu
+52,Male,asymptomatic,112,342,0,ST-T wave abnormality,96,Yes,1,v1,hu
+52,Male,asymptomatic,130,298,0,normal,110,Yes,1,v1,hu
+52,Male,asymptomatic,140,404,0,normal,124,Yes,2,v1,hu
+52,Male,asymptomatic,160,246,0,ST-T wave abnormality,82,Yes,4,v1,hu
+53,Male,non-anginal pain,145,518,0,normal,130,No,0,v1,hu
+53,Male,asymptomatic,180,285,0,ST-T wave abnormality,120,Yes,1.5,v1,hu
+54,Male,asymptomatic,140,216,0,normal,105,No,1.5,v1,hu
+55,Male,atypical angina,160,292,1,normal,143,Yes,2,v1,hu
+55,Male,asymptomatic,145,248,0,normal,96,Yes,2,v1,hu
+56,Female,atypical angina,120,279,0,normal,150,No,1,v1,hu
+56,Male,asymptomatic,150,230,0,ST-T wave abnormality,124,Yes,1.5,v1,hu
+56,Male,asymptomatic,170,388,0,ST-T wave abnormality,122,Yes,2,v1,hu
+58,Male,atypical angina,136,164,0,ST-T wave abnormality,99,Yes,2,v1,hu
+59,Male,asymptomatic,140,264,1,probable/definite hypertrophy,119,Yes,0,v1,hu
+65,Male,asymptomatic,170,263,1,normal,112,Yes,2,v1,hu
+41,Male,asymptomatic,120,336,0,normal,118,Yes,3,v1,hu
+43,Male,asymptomatic,140,288,0,normal,135,Yes,2,v1,hu
+44,Male,asymptomatic,135,491,0,normal,135,No,0,v1,hu
+47,Female,asymptomatic,120,205,0,normal,98,Yes,2,v1,hu
+47,Male,asymptomatic,160,291,0,ST-T wave abnormality,158,Yes,3,v1,hu
+49,Male,asymptomatic,128,212,0,normal,96,Yes,0,v1,hu
+49,Male,asymptomatic,150,222,0,normal,122,No,2,v1,hu
+50,Male,asymptomatic,140,231,0,ST-T wave abnormality,140,Yes,5,v1,hu
+50,Male,asymptomatic,140,341,0,ST-T wave abnormality,125,Yes,2.5,v1,hu
+52,Male,asymptomatic,140,266,0,normal,134,Yes,2,v1,hu
+52,Male,asymptomatic,160,331,0,normal,94,Yes,2.5,v1,hu
+54,Female,non-anginal pain,130,294,0,ST-T wave abnormality,100,Yes,0,v1,hu
+56,Male,asymptomatic,155,342,1,normal,150,Yes,3,v1,hu
+58,Female,atypical angina,180,393,0,normal,110,Yes,1,v1,hu
+65,Male,asymptomatic,130,275,0,ST-T wave abnormality,115,Yes,1,v1,hu
+63,Male,asymptomatic,140,260,0,ST-T wave abnormality,112,Yes,3,v2,va
+44,Male,asymptomatic,130,209,0,ST-T wave abnormality,127,No,0,v0,va
+60,Male,asymptomatic,132,218,0,ST-T wave abnormality,140,Yes,1.5,v2,va
+55,Male,asymptomatic,142,228,0,ST-T wave abnormality,149,Yes,2.5,v1,va
+66,Male,non-anginal pain,110,213,1,probable/definite hypertrophy,99,Yes,1.3,v0,va
+66,Male,non-anginal pain,120,0,0,ST-T wave abnormality,120,No,-0.5,v0,va
+65,Male,asymptomatic,150,236,1,ST-T wave abnormality,105,Yes,0,v3,va
+60,Male,non-anginal pain,180,0,0,ST-T wave abnormality,140,Yes,1.5,v0,va
+60,Male,atypical angina,160,267,1,ST-T wave abnormality,157,No,0.5,v1,va
+56,Male,atypical angina,126,166,0,ST-T wave abnormality,140,No,0,v0,va
+59,Male,asymptomatic,140,0,0,ST-T wave abnormality,117,Yes,1,v1,va
+62,Male,asymptomatic,110,0,0,normal,120,Yes,0.5,v1,va
+57,Male,asymptomatic,128,0,1,ST-T wave abnormality,148,Yes,1,v1,va
+62,Male,asymptomatic,120,220,0,ST-T wave abnormality,86,No,0,v0,va
+63,Male,asymptomatic,170,177,0,normal,84,Yes,2.5,v4,va
+46,Male,asymptomatic,110,236,0,normal,125,Yes,2,v1,va
+63,Male,asymptomatic,126,0,0,ST-T wave abnormality,120,No,1.5,v0,va
+60,Male,asymptomatic,152,0,0,ST-T wave abnormality,118,Yes,0,v0,va
+58,Male,asymptomatic,116,0,0,normal,124,No,1,v2,va
+64,Male,asymptomatic,120,0,1,ST-T wave abnormality,106,No,2,v1,va
+63,Male,non-anginal pain,130,0,0,ST-T wave abnormality,111,Yes,0,v3,va
+52,Male,non-anginal pain,128,0,0,ST-T wave abnormality,180,No,3,v2,va
+69,Male,asymptomatic,130,0,1,ST-T wave abnormality,129,No,1,v2,va
+60,Male,asymptomatic,130,186,1,ST-T wave abnormality,140,Yes,0.5,v1,va
+56,Male,asymptomatic,120,100,0,normal,120,Yes,1.5,v1,va
+77,Male,asymptomatic,124,171,0,ST-T wave abnormality,110,Yes,2,v3,va
+63,Male,asymptomatic,160,230,1,normal,105,Yes,1,v3,va
+55,Male,non-anginal pain,0,0,0,normal,155,No,1.5,v3,va
+52,Male,non-anginal pain,122,0,0,normal,110,Yes,2,v2,va
+64,Male,asymptomatic,144,0,0,ST-T wave abnormality,122,Yes,1,v3,va
+60,Male,asymptomatic,120,0,0,normal,133,Yes,2,v0,va
+59,Male,asymptomatic,154,0,0,ST-T wave abnormality,131,Yes,1.5,v0,va
+61,Male,non-anginal pain,120,0,0,normal,80,Yes,0,v3,va
+40,Male,asymptomatic,125,0,1,normal,165,No,0,v1,va
+41,Male,asymptomatic,104,0,0,ST-T wave abnormality,111,No,0,v0,va
+63,Male,asymptomatic,136,0,0,normal,84,Yes,0,v2,va
+59,Male,asymptomatic,122,233,0,normal,117,Yes,1.3,v1,va
+51,Male,asymptomatic,128,0,0,normal,107,No,0,v0,va
+55,Male,non-anginal pain,120,0,0,ST-T wave abnormality,125,Yes,2.5,v1,va
+62,Male,asymptomatic,152,153,0,ST-T wave abnormality,97,Yes,1.6,v2,va
+56,Male,atypical angina,124,224,1,normal,161,No,2,v0,va
+53,Male,asymptomatic,126,0,0,normal,106,No,0,v1,va
+68,Male,asymptomatic,138,0,0,normal,130,Yes,3,v2,va
+59,Male,asymptomatic,178,0,1,probable/definite hypertrophy,120,Yes,0,v1,va
+56,Male,non-anginal pain,170,0,0,probable/definite hypertrophy,123,Yes,2.5,v4,va
+58,Male,atypical angina,126,0,1,normal,110,Yes,2,v2,va
+67,Male,typical angina,142,270,1,normal,125,No,2.5,v3,va
+58,Male,asymptomatic,120,0,0,probable/definite hypertrophy,106,Yes,1.5,v1,va
+57,Male,asymptomatic,140,214,0,ST-T wave abnormality,144,Yes,2,v2,va
+54,Male,asymptomatic,136,220,0,normal,140,Yes,3,v3,va
+72,Male,non-anginal pain,120,214,0,normal,102,Yes,1,v3,va
+75,Male,asymptomatic,170,203,1,ST-T wave abnormality,108,No,0,v1,va
+49,Male,typical angina,130,0,0,ST-T wave abnormality,145,No,3,v2,va
+60,Male,asymptomatic,142,216,0,normal,110,Yes,2.5,v2,va
+64,Female,asymptomatic,142,276,0,normal,140,Yes,1,v1,va
+58,Male,asymptomatic,132,458,1,normal,69,No,1,v0,va
+61,Male,asymptomatic,146,241,0,normal,148,Yes,3,v2,va
+67,Male,asymptomatic,160,384,1,ST-T wave abnormality,130,Yes,0,v2,va
+62,Male,asymptomatic,135,297,0,normal,130,Yes,1,v2,va
+65,Male,asymptomatic,136,248,0,normal,140,Yes,4,v4,va
+63,Male,asymptomatic,130,308,0,normal,138,Yes,2,v2,va
+69,Male,asymptomatic,140,208,0,ST-T wave abnormality,140,Yes,2,v3,va
+62,Male,asymptomatic,158,210,1,normal,112,Yes,3,v1,va
+75,Male,asymptomatic,136,225,0,normal,112,Yes,3,v3,va
+40,Male,non-anginal pain,106,240,0,normal,80,Yes,0,v0,va
+67,Male,asymptomatic,120,0,1,normal,150,No,1.5,v3,va
+58,Male,asymptomatic,110,198,0,normal,110,No,0,v1,va
+63,Male,asymptomatic,160,267,1,ST-T wave abnormality,88,Yes,2,v3,va
+43,Male,asymptomatic,122,0,0,normal,120,No,0.5,v1,va
+63,Male,non-anginal pain,130,0,1,ST-T wave abnormality,160,No,3,v0,va
+68,Male,non-anginal pain,150,195,1,normal,132,No,0,v1,va
+65,Male,asymptomatic,150,235,0,normal,120,Yes,1.5,v3,va
+63,Male,asymptomatic,96,305,0,ST-T wave abnormality,121,Yes,1,v1,va
+64,Male,asymptomatic,130,223,0,ST-T wave abnormality,128,No,0.5,v0,va
+61,Male,asymptomatic,120,282,0,ST-T wave abnormality,135,Yes,4,v3,va
+50,Male,asymptomatic,144,349,0,probable/definite hypertrophy,120,Yes,1,v1,va
+55,Male,asymptomatic,150,160,0,ST-T wave abnormality,150,No,0,v0,va
+55,Male,asymptomatic,116,186,1,ST-T wave abnormality,102,No,0,v2,va
+63,Male,asymptomatic,110,252,0,ST-T wave abnormality,140,Yes,2,v2,va
+59,Male,asymptomatic,125,222,0,normal,135,Yes,2.5,v3,va
+74,Male,asymptomatic,150,258,1,ST-T wave abnormality,130,Yes,4,v3,va
+54,Male,asymptomatic,130,202,1,normal,112,Yes,2,v1,va
+57,Male,asymptomatic,110,197,0,probable/definite hypertrophy,100,No,0,v0,va
+54,Female,asymptomatic,138,274,0,normal,105,Yes,1.5,v1,va
+70,Male,asymptomatic,170,192,0,ST-T wave abnormality,129,Yes,3,v2,va
+61,Female,atypical angina,140,298,1,normal,120,Yes,0,v0,va
+48,Male,non-anginal pain,132,220,1,ST-T wave abnormality,162,No,0,v1,va
+61,Male,typical angina,142,200,1,ST-T wave abnormality,100,No,1.5,v3,va
+66,Male,asymptomatic,112,261,0,normal,140,No,1.5,v1,va
+55,Male,asymptomatic,172,260,0,normal,73,No,2,v3,va
+62,Male,non-anginal pain,120,220,0,probable/definite hypertrophy,86,No,0,v0,va
+58,Male,non-anginal pain,150,219,0,ST-T wave abnormality,118,Yes,0,v2,va
+75,Male,asymptomatic,160,310,1,normal,112,Yes,2,v0,va
+64,Male,asymptomatic,134,273,0,normal,102,Yes,4,v4,va
+59,Male,asymptomatic,140,274,0,normal,154,Yes,2,v0,va
+57,Male,asymptomatic,144,270,1,ST-T wave abnormality,160,Yes,2,v3,va
+41,Male,asymptomatic,150,171,0,normal,128,Yes,1.5,v0,va
+71,Male,asymptomatic,130,221,0,ST-T wave abnormality,115,Yes,0,v3,va
+38,Male,asymptomatic,110,289,0,normal,105,Yes,1.5,v1,va
+55,Male,asymptomatic,158,217,0,normal,110,Yes,2.5,v1,va
+56,Male,asymptomatic,128,223,0,ST-T wave abnormality,119,Yes,2,v2,va
+64,Male,asymptomatic,150,193,0,ST-T wave abnormality,135,Yes,0.5,v2,va
+57,Male,asymptomatic,156,173,0,probable/definite hypertrophy,119,Yes,3,v3,va
+69,Male,asymptomatic,122,216,1,probable/definite hypertrophy,84,Yes,0,v2,va
+57,Male,atypical angina,180,285,1,ST-T wave abnormality,120,No,0.8,v1,va
+53,Male,asymptomatic,124,243,0,normal,122,Yes,2,v1,va
+37,Male,non-anginal pain,118,240,0,probable/definite hypertrophy,165,No,1,v0,va
+67,Male,asymptomatic,140,219,0,ST-T wave abnormality,122,Yes,2,v3,va
+74,Male,non-anginal pain,140,237,1,normal,94,No,0,v1,va
+58,Male,asymptomatic,100,213,0,ST-T wave abnormality,110,No,0,v0,va
+61,Male,asymptomatic,190,287,1,probable/definite hypertrophy,150,Yes,2,v4,va
+64,Male,asymptomatic,130,258,1,probable/definite hypertrophy,130,No,0,v2,va
+58,Male,asymptomatic,160,256,1,probable/definite hypertrophy,113,Yes,1,v3,va
+60,Male,asymptomatic,130,186,1,probable/definite hypertrophy,140,Yes,0.5,v1,va
+57,Male,asymptomatic,122,264,0,probable/definite hypertrophy,100,No,0,v1,va
+55,Male,asymptomatic,120,226,0,probable/definite hypertrophy,127,Yes,1.7,v1,va
+56,Male,asymptomatic,130,203,1,normal,98,No,1.5,v1,va
+57,Male,asymptomatic,130,207,0,ST-T wave abnormality,96,Yes,1,v0,va
+61,Male,non-anginal pain,120,337,0,normal,98,Yes,0,v3,va
+58,Male,non-anginal pain,150,219,0,ST-T wave abnormality,118,Yes,0,v2,va
+74,Male,asymptomatic,155,310,0,normal,112,Yes,1.5,v2,va
+68,Male,non-anginal pain,134,254,1,normal,151,Yes,0,v0,va
+51,Female,asymptomatic,114,258,1,probable/definite hypertrophy,96,No,1,v0,va
+62,Male,asymptomatic,160,254,1,ST-T wave abnormality,108,Yes,3,v4,va
+53,Male,asymptomatic,144,300,1,ST-T wave abnormality,128,Yes,1.5,v3,va
+62,Male,asymptomatic,158,170,0,ST-T wave abnormality,138,Yes,0,v1,va
+46,Male,asymptomatic,134,310,0,normal,126,No,0,v2,va
+54,Female,asymptomatic,127,333,1,ST-T wave abnormality,154,No,0,v1,va
+55,Male,asymptomatic,122,223,1,ST-T wave abnormality,100,No,0,v2,va
+62,Male,atypical angina,120,254,0,probable/definite hypertrophy,93,Yes,0,v1,va
